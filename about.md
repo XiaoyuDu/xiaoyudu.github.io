@@ -7,7 +7,7 @@ permalink: /about/
 ### More Information
 
 My Google Scholar:
-(https://scholar.google.com/citations?user=9rQ-YFcAAAAJ&hl=en)
+[https://scholar.google.com/citations?user=9rQ-YFcAAAAJ&hl=en](url)
 
 ### Contact me
 

@@ -8,7 +8,7 @@ permalink: /publications/
 
 **Xiaoyu Du**, NA Le-Khac, and Mark Scanlon. *Evaluation of digital forensic process models with respect to digital forensics as a service*. 
 <button type="button" class="btn btn-success btn-sm">[PDF](https://arxiv.org/pdf/1708.01730)</button>
-<button type="button" class="btn btn-secondary btn-sm">[BibTex](/bibs/du2017evaluation.txt)</button>
+<button type="button" class="btn btn-secondary btn-sm">[BibTex](/du2017evaluation.txt)</button>
 
 
 

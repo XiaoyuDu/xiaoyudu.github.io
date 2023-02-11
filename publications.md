@@ -6,20 +6,22 @@ permalink: /publications/
 [Google Scholar](https://scholar.google.com/citations?user=9rQ-YFcAAAAJ&hl=en&oi=sra)
 
 
-**Xiaoyu Du**, NA Le-Khac, and Mark Scanlon. *Evaluation of digital forensic process models with respect to digital forensics as a service*. 
+*Evaluation of digital forensic process models with respect to digital forensics as a service*. **Xiaoyu Du**, NA Le-Khac, and Mark Scanlon. 
 <button type="button" class="btn btn-success btn-sm">[PDF](https://arxiv.org/pdf/1708.01730)</button>
 <button type="button" class="btn btn-secondary btn-sm">[BibTex](/bibs/du2017evaluation.txt)</button>
 
-**Xiaoyu Du**, Christopher Hargreaves, John Sheppard, and Mark Scanlon. *SoK: Exploring the state of the art and the future potential of artificial intelligence in digital forensic investigation*
+*SoK: Exploring the state of the art and the future potential of artificial intelligence in digital forensic investigation* **Xiaoyu Du**, Christopher Hargreaves, John Sheppard, and Mark Scanlon. 
 <button type="button" class="btn btn-success btn-sm">[PDF](https://dl.acm.org/doi/pdf/10.1145/3407023.3407068)</button>
 <button type="button" class="btn btn-secondary btn-sm">[BibTex](bibs/du2020sok.txt)</button>
 
 
-Mark Scanlon, **Xiaoyu Du**, David Lillis. *EviPlant: An efficient digital forensic challenge creation, manipulation and distribution solution*
+*EviPlant: An efficient digital forensic challenge creation, manipulation and distribution solution* Mark Scanlon, **Xiaoyu Du**, David Lillis. 
 <button type="button" class="btn btn-success btn-sm">[PDF](https://www.sciencedirect.com/science/article/pii/S1742287617300397)</button>
 <button type="button" class="btn btn-secondary btn-sm">[BibTex](bibs/scanlon2017eviplant.txt)</button>
 
-**Xiaoyu Du**, Christopher Hargreaves, John Sheppard, Mark Scanlon. *TraceGen: User activity emulation for digital forensic test image generation*
+ *TraceGen: User activity emulation for digital forensic test image generation* **Xiaoyu Du**, Christopher Hargreaves, John Sheppard, Mark Scanlon.
+ <button type="button" class="btn btn-secondary btn-sm">[BibTex](bibs/du2021tracegen.txt)</button>
+
 
 **Xiaoyu Du**, Mark Scanlon *Methodology for the automated metadata-based classification of incriminating digital forensic artefacts*
 

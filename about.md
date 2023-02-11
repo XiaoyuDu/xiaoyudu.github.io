@@ -10,10 +10,8 @@ As a Lecturer and Researcher in Digital Forensics and Cybercrime Investigation a
 My research interests center around digital forensics and cybercrime investigation, and I am seeking PhD students who have a passion for exploring topics such as IoT forensics, financial fraud investigation, malware prevention, etc.
 
 
-### More Information
+### My Pulications:
 
-My Google Scholar:
-[https://scholar.google.com/citations?user=9rQ-YFcAAAAJ&hl=en&oi=sra](url)
 
 
 ### Contact me

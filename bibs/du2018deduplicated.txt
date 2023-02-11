@@ -1,0 +1,8 @@
+@inproceedings{du2018deduplicated,
+  title={Deduplicated disk image evidence acquisition and forensically-sound reconstruction},
+  author={Du, Xiaoyu and Ledwith, Paul and Scanlon, Mark},
+  booktitle={2018 17th IEEE International Conference On Trust, Security And Privacy In Computing And Communications/12th IEEE International Conference On Big Data Science And Engineering (TrustCom/BigDataSE)},
+  pages={1674--1679},
+  year={2018},
+  organization={IEEE}
+}

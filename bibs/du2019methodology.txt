@@ -1,0 +1,7 @@
+@inproceedings{du2019methodology,
+  title={Methodology for the automated metadata-based classification of incriminating digital forensic artefacts},
+  author={Du, Xiaoyu and Scanlon, Mark},
+  booktitle={Proceedings of the 14th International Conference on Availability, Reliability and Security},
+  pages={1--8},
+  year={2019}
+}

@@ -10,10 +10,6 @@ As a Lecturer and Researcher in Digital Forensics and Cybercrime Investigation a
 My research interests center around digital forensics and cybercrime investigation, and I am seeking PhD students who have a passion for exploring topics such as IoT forensics, financial fraud investigation, malware prevention, etc.
 
 
-### My Pulications:
-
-
-
 ### Contact me
 
 [xiaoyu.du@mu.ie](mailto:xiaoyu@mu.ie)

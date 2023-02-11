@@ -4,6 +4,10 @@ title: About
 permalink: /about/
 ---
 
+
+I’m a Lecturer, Reseacher in Digital Forensics and Cybercrime Investigation at Maynooth University.
+
+
 ### More Information
 
 My Google Scholar:
